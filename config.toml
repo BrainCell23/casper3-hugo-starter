@@ -27,7 +27,7 @@ weight = 20
 identifier = "github-repo-theme"
 name = "Get Theme on Github"
 url = "https://github.com/jonathanjanssens/hugo-casper3"
-weight = 30
+weight = 930
 [[menu.main]]
 identifier = "author"
 name = "Author Homepage"
