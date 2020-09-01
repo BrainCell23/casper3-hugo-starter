@@ -9,6 +9,11 @@ paginate = 3
 theme = "casper3"
 title = "Credmins - A Deliverable Basic Income"
 [[menu.main]]
+identifier = "basic-income"
+name = "Basic Income"
+url = "/basic-income/"
+weight = 10
+[[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
